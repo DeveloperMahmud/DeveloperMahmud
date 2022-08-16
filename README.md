@@ -1,13 +1,12 @@
 # Front End Developer
-### ✅ Javascript, ✅ React,  ✅ NodeJs,  ✅ MongoDB,   ✅ Vue, ✅ API integration and Development are the major fields I have expertise in. If you need a customized Web Application or Dashboard or Admin Panel or any type of website's, I would be glad to assist you!
+### ✅ Javascript, ✅ React,  ✅ NodeJs,  ✅ MongoDB, ✅ API integration and Development are the major fields I have expertise in. If you need a customized Web Application or Dashboard or Admin Panel or any type of website's, I would be glad to assist you!
 
-- 🔭 I’m currently working on Full Stack Development with MERN
+- 🔭 I’m currently working on Web Development with MERN
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any Javascript projects
 - 🤔 I’m looking for help with React
-- 💬 Ask me about  Javascript
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dev-mahmudul-hassan/) , [Twitter](https://twitter.com/DeveloperMahmud) , [Behance](https://www.behance.net/mrepte700d7cd) , [StackOverFlow](https://stackoverflow.com/users/14132809/developer-mahmud)
-- ⚡ Fun facts: I want gardening when working on coding...
+- 📫 You Can Reach Me: [Linkedin](https://www.linkedin.com/in/dev-mahmudul-hassan/) , [Twitter](https://twitter.com/DeveloperMahmud) , [Behance](https://www.behance.net/mrepte700d7cd) , [StackOverFlow](https://stackoverflow.com/users/14132809/developer-mahmud)
+
 
 
 <!-- ![DeveloperMahmud's stats][DeveloperMahmud-readme-stats] ![DeveloperMahmud's top languages][nb-top-langs2]    
